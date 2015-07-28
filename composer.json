@@ -1,0 +1,11 @@
+{
+	"name"        : "rkaiser0324/nginx-cache-purge",
+	"description" : "A bash script for deleting items from Nginx cache",
+	"version"     : "0.1",
+	"license"     : "MIT",
+	"authors": [
+		{
+			"name" : "perusio@github"
+		}
+	]
+}
